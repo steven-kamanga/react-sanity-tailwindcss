@@ -27,8 +27,11 @@
     "@sanity/eslint-config-studio": "^2.0.1",
     "@types/react": "^18.0.25",
     "@types/styled-components": "^5.1.26",
+    "autoprefixer": "^10.4.14",
     "eslint": "^8.6.0",
+    "postcss": "^8.4.21",
     "prettier": "^2.8.7",
+    "tailwindcss": "^3.3.1",
     "typescript": "^4.0.0"
   },
   "prettier": {

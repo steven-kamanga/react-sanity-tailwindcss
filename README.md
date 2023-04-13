@@ -21,5 +21,10 @@
 });`... you get the idea. Study the App.jsx for that.
 - run `npx sanity dex` to start the dev server
 - run `npm run dev` to run the react app (Using super duppa fast Vite by the way, shout out to @vite team)
+- run `npm run build` to build the react app
 
-### NB: Write doc for me''' HAHAHA
+## What's next?
+
+- More docs and stuff (I'm lazy)
+
+### NB: Write your own docs.... HAHAHA
